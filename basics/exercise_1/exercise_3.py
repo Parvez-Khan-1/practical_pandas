@@ -1,5 +1,5 @@
 """
-Different Ways Of Removing Rows and Columns From a DataFrame
+Different Ways Of Removing Rows and Columns From a Pandas DataFrame
 """
 import pandas as pd
 
